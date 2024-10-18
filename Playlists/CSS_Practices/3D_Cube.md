@@ -1,6 +1,6 @@
-# CSS Practices - 3D Cube
+## CSS Practices - 3D Cube :film_projector: [Watch on Youtube](https://rnxcode.com)
 
-index.html
+**index.html**
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -8,7 +8,7 @@ index.html
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>CSS Practices - Lesson 1: 3D Cube</title>
+    <title>CSS Practices - 3D Cube</title>
   </head>
   <body>
     <div class="threed_zone">
@@ -24,8 +24,8 @@ index.html
   </body>
 </html>
 ```
-
-style.css
+\
+**style.css**
 ```
 * {
   padding: 0px;
