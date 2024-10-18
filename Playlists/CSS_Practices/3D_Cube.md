@@ -1,4 +1,4 @@
-## CSS Practices - 3D Cube | [Watch on Youtube](https://youtu.be/u6naLz_6YQI){:target="_blank"}
+## CSS Practices - 3D Cube | [Watch on Youtube](https://youtu.be/u6naLz_6YQI" target="_blank)
 
 **index.html**
 ```
