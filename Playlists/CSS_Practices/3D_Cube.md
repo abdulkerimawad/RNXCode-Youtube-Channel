@@ -1,4 +1,4 @@
-## CSS Practices - 3D Cube | [Watch on Youtube]([https://rnxcode.com](https://youtu.be/u6naLz_6YQI))
+## CSS Practices - 3D Cube | [Watch on Youtube](https://youtu.be/u6naLz_6YQI)
 
 **index.html**
 ```
