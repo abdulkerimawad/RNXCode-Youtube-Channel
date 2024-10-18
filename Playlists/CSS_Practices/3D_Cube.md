@@ -1,4 +1,4 @@
-## CSS Practices - 3D Cube | [Watch on Youtube](https://youtu.be/u6naLz_6YQI "Title" target="_blank")
+## CSS Practices - 3D Cube | <a href="https://youtu.be/u6naLz_6YQI" target="_blank">Watch on Youtube</a>
 
 **index.html**
 ```
